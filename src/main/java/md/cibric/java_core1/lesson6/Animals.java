@@ -8,6 +8,7 @@ public class Animals {
     private int runDistance;
     private int swimDistance;
 
+
     private Animals() {
         counter++;
     }
